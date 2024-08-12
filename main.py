@@ -25,7 +25,7 @@ main_folders.append(os.path.abspath('./Experiments/2024-04-04_TraT_conj_assay/')
 main_folders.append(os.path.abspath('./Experiments/2024-04-11_TraT_conj_assay/'))
 main_folders.append(os.path.abspath('./Experiments/2024-04-17_TraT_conjugation/'))
 
-bacseg_folders = ['20240710_bacseg_new']
+bacseg_folders = ['Processed']
 
 master_order = ('Empty', 'T1', 'T2', 'T3', 'E', '199', 'WT', '193', '99', '253', '100', '255', '101', '256', '102', '257') #order to plot the samples on the x axis
 
