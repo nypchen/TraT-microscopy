@@ -1,1 +1,1 @@
-Script for calculating conjugation efficiencies and exclusion indices and performing the statistical tests after data processing (https://github.com/alfbukys/conj_assay/).
+Script to calculate conjugation efficiencies and exclusion indices and perform statistical tests after data processing (https://github.com/alfbukys/conj_assay/).
