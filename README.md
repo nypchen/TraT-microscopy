@@ -1,0 +1,1 @@
+Script for calculating conjugation efficiencies and exclusion indices after data processing (https://github.com/alfbukys/conj_assay/).
