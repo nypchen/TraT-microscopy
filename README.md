@@ -2,6 +2,7 @@ Script to calculate conjugation efficiencies and exclusion indices and perform s
 
 The folder structure should be as follows :
 
+```
 Main folder
     |– Microscopy day 1
         |– Vector
@@ -13,3 +14,4 @@ Main folder
             ...
     |– Microscopy day 2
     |– Microscopy day 3
+```
